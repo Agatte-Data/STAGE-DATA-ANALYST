@@ -1,0 +1,3 @@
+# Données brutes : ignorées par Git
+02_DATA_BRUTE/*
+!02_DATA_BRUTE/.gitkeep

@@ -1,0 +1,10 @@
+﻿INSTRUCTIONS
+DOSSIER DE STAGE DATA ANALYST — AFRICA DISTRIBUTION SARL
+Jeu de données synthétiques pour un cas pratique d'entreprise.
+Période cible : 2023–2025. Monnaie : FCFA.
+Les feuilles *_BRUT contiennent volontairement des anomalies.
+Ne pas corriger les données directement dans les feuilles sources : conserver une copie brute.
+"Documenter chaque règle de nettoyage, chaque exclusion et chaque hypothèse."
+Les données sont fictives et ne représentent aucune personne ou entreprise réelle.
+"Les statuts, dates, identifiants, prix et quantités doivent être contrôlés."
+"Livrables attendus : données propres, rapport qualité, SQL, notebooks, Power BI, recommandations."

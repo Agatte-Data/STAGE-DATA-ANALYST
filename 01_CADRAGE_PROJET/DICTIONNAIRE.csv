@@ -1,0 +1,21 @@
+﻿table,colonne,description,nature
+ventes,id_vente,Identifiant unique de la ligne de vente,Transaction
+ventes,date_vente,Date de la vente,Transaction
+ventes,id_client,Identifiant du client,Relation clients
+ventes,id_produit,Identifiant du produit,Relation produits
+ventes,id_magasin,Point de vente,Relation magasins
+ventes,id_commercial,Commercial responsable,Relation commerciaux
+ventes,quantite,Quantité vendue,Mesure
+ventes,prix_unitaire_fcfa,Prix unitaire de vente en FCFA,Mesure
+ventes,remise_pct,Taux de remise (ex. 0.05 = 5%),Mesure
+ventes,cout_unitaire_fcfa,Coût unitaire d'achat en FCFA,Mesure
+ventes,statut_vente,Statut de la transaction,Qualité / filtre métier
+clients,id_client,Identifiant client,Clé primaire
+produits,id_produit,Identifiant produit,Clé primaire
+magasins,id_magasin,Identifiant magasin,Clé primaire
+commerciaux,id_commercial,Identifiant commercial,Clé primaire
+stocks,id_mouvement,Identifiant mouvement de stock,Transaction
+achats,id_achat,Identifiant commande fournisseur,Transaction
+fournisseurs,id_fournisseur,Identifiant fournisseur,Clé primaire
+depenses,id_depense,Identifiant dépense,Transaction
+livraisons,id_livraison,Identifiant livraison,Transaction
