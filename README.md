@@ -35,7 +35,7 @@ Concevoir un système complet d'analyse des données commerciales pour répondre
 | # | Phase | Statut |
 |---|---|---|
 | 1 | Compréhension du besoin métier et cadrage | Terminé|
-| 2 | Collecte et exploration des données (Excel) | À faire |
+| 2 | Collecte et exploration des données (Excel) | Terminé |
 | 3 | Nettoyage et préparation (Python) | À faire |
 | 4 | Conception de la base de données (SQL) | À faire |
 | 5 | Analyse exploratoire approfondie (Python) | À faire |
