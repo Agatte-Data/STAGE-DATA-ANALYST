@@ -37,7 +37,7 @@ Concevoir un système complet d'analyse des données commerciales pour répondre
 | 1 | Compréhension du besoin métier et cadrage | Terminé|
 | 2 | Collecte et exploration des données (Excel) | Terminé |
 | 3 | Nettoyage et préparation (Python) | Terminé |
-| 4 | Conception de la base de données (SQL) | À faire |
+| 4 | Conception de la base de données (SQL) | Terminé |
 | 5 | Analyse exploratoire approfondie (Python) | À faire |
 | 6 | Analyse des stocks et approvisionnements | À faire |
 | 7 | Business Intelligence (Power BI, 5 tableaux de bord) | À faire |
