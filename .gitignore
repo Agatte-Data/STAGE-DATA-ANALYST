@@ -1,4 +1,5 @@
 # Données brutes : ignorées par Git
 02_DATA_BRUTE/*
 !02_DATA_BRUTE/.gitkeep
+04_PYTHON/DATA_NETTOYEE/*
 !04_PYTHON/DATA_NETTOYEE/.gitkeep
