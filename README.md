@@ -40,7 +40,7 @@ Concevoir un système complet d'analyse des données commerciales pour répondre
 | 4 | Conception de la base de données (SQL) | Terminé |
 | 5 | Analyse exploratoire approfondie (Python) | Terminé |
 | 6 | Analyse des stocks et approvisionnements | Terminé |
-| 7 | Business Intelligence (Power BI, 5 tableaux de bord) | À faire |
+| 7 | Business Intelligence (Power BI, 5 tableaux de bord) | Terminé |
 | 8 | Prévisions et analyse prédictive | À faire |
 | 9 | Recommandations stratégiques | À faire |
 | 10 | Présentation finale | À faire |
