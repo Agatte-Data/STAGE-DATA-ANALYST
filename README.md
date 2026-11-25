@@ -42,7 +42,7 @@ Concevoir un système complet d'analyse des données commerciales pour répondre
 | 6 | Analyse des stocks et approvisionnements | Terminé |
 | 7 | Business Intelligence (Power BI, 5 tableaux de bord) | Terminé |
 | 8 | Prévisions et analyse prédictive | Terminé |
-| 9 | Recommandations stratégiques | À faire |
+| 9 | Recommandations stratégiques | Terminé |
 | 10 | Présentation finale | À faire |
 
 ## Structure du projet
